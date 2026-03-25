@@ -1,0 +1,53 @@
+[2026-03-25 07:47:09Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin'
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner'
+[2026-03-25 07:47:09Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.credentials'
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin'
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner'
+[2026-03-25 07:47:09Z INFO HostContext] Well known config file 'Runner': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.runner'
+[2026-03-25 07:47:09Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2026-03-25 07:47:09Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.26200.
+[2026-03-25 07:47:09Z INFO Listener] Version: 2.333.0
+[2026-03-25 07:47:09Z INFO Listener] Commit: 8d231aaf863e5fcdd02d35bdfda369feafd08adb
+[2026-03-25 07:47:09Z INFO Listener] Culture: ko-KR
+[2026-03-25 07:47:09Z INFO Listener] UI Culture: ko-KR
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin'
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner'
+[2026-03-25 07:47:09Z INFO Listener] Validating directory permissions for: 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner'
+[2026-03-25 07:47:09Z INFO CommandLineParser] Parse
+[2026-03-25 07:47:09Z INFO CommandLineParser] Parsing 1 args
+[2026-03-25 07:47:09Z INFO CommandLineParser] parsing argument
+[2026-03-25 07:47:09Z INFO CommandLineParser] HasArgs: False
+[2026-03-25 07:47:09Z INFO CommandLineParser] Adding Command: run
+[2026-03-25 07:47:09Z INFO Listener] Arguments parsed
+[2026-03-25 07:47:09Z INFO Runner] ExecuteCommand
+[2026-03-25 07:47:09Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin\Runner.Listener.dll
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin'
+[2026-03-25 07:47:09Z INFO ConfigurationStore] binPath: C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin'
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner'
+[2026-03-25 07:47:09Z INFO ConfigurationStore] RootFolder: C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin'
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner'
+[2026-03-25 07:47:09Z INFO HostContext] Well known config file 'Runner': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.runner'
+[2026-03-25 07:47:09Z INFO ConfigurationStore] ConfigFilePath: C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.runner
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin'
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner'
+[2026-03-25 07:47:09Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.runner_migrated'
+[2026-03-25 07:47:09Z INFO ConfigurationStore] MigratedConfigFilePath: C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.runner_migrated
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin'
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner'
+[2026-03-25 07:47:09Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.credentials'
+[2026-03-25 07:47:09Z INFO ConfigurationStore] CredFilePath: C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.credentials
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin'
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner'
+[2026-03-25 07:47:09Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.credentials_migrated'
+[2026-03-25 07:47:09Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.credentials_migrated
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\bin'
+[2026-03-25 07:47:09Z INFO HostContext] Well known directory 'Root': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner'
+[2026-03-25 07:47:09Z INFO HostContext] Well known config file 'Service': 'C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.service'
+[2026-03-25 07:47:09Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\sec21\work\C\c-docker-ghcr-runner\actions-runner\.service
+[2026-03-25 07:47:09Z INFO CommandSettings] Flag 'help': 'False'
+[2026-03-25 07:47:09Z INFO CommandSettings] Flag 'version': 'False'
+[2026-03-25 07:47:09Z INFO CommandSettings] Flag 'commit': 'False'
+[2026-03-25 07:47:09Z INFO CommandSettings] Flag 'check': 'False'

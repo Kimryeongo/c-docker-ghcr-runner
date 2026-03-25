@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-RA3MD79",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus13.actions.githubusercontent.com/s8nWYHWxLFTDfslULzlJ47WDmGK9F4okbJOIYqohg7ujGwA5y3/",
+  "gitHubUrl": "https://github.com/Kimryeongo/c-docker-ghcr-runner",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}

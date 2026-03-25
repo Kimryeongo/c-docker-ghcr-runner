@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "Kimryeongo/c-docker-ghcr-runner",
+  "pipelineDirectory": "c-docker-ghcr-runner",
+  "workspaceDirectory": "c-docker-ghcr-runner\\c-docker-ghcr-runner",
+  "repositories": {
+    "Kimryeongo/c-docker-ghcr-runner": {
+      "repositoryPath": "c-docker-ghcr-runner\\c-docker-ghcr-runner",
+      "lastRunOn": "03/25/2026 16:47:17 +09:00"
+    }
+  },
+  "lastRunOn": "03/25/2026 16:47:17 +09:00"
+}
